@@ -1,6 +1,5 @@
 import axios, { AxiosInstance, AxiosResponse, ResponseType } from 'axios';
 import queryString from 'query-string';
-// import { path } from 'routers/path';
 import { showMessage } from '../utils/helper/showMessage';
 
 const interceptAuth = (
